@@ -11,7 +11,7 @@
   <li><a href="https://serviseoil.ru">https://serviseoil.ru</a></li>
 </ul>
 
-[![Ivan Konishchev](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanKispaj&theme=solarized_dark)
 
