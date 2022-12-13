@@ -10,3 +10,5 @@
   <li><a href="https://astashkinaolga.ru">https://astashkinaolga.ru</a></li>
   <li><a href="https://serviseoil.ru">https://serviseoil.ru</a></li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanKispa&show_icons=true&theme=radical)
