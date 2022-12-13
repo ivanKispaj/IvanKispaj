@@ -11,4 +11,6 @@
   <li><a href="https://serviseoil.ru">https://serviseoil.ru</a></li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanKispaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanKispaj&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanKispaj&theme=solarized_dark)
+
